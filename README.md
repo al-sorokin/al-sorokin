@@ -2,4 +2,4 @@ Hello! 👋 I'm a Technical Product Manager with expertise in project management
 
 📫 How to reach me:
 - email: a.spliny@gmail.com
-- telegram: @spliny
+- telegram: [spliny](https://t.me/spliny)
